@@ -8,3 +8,66 @@ body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
 }
+.background-title{
+  background: #06365f;
+}
+.general{
+  margin-top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: space-around;
+}
+
+.iphone{
+  margin-top: 150px;
+}
+.div1{
+  display: flex;
+  flex-direction: column;
+}
+.div2{
+  background: #06365f;
+  color: white;
+  margin-top: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  flex: auto;
+  
+}
+.home{
+  width: 35px;
+  height: 40px;
+  
+}
+button{
+  width: auto;
+  height: 40px;
+}
+.text{
+  margin-top: 30px;
+  font-size:smaller;
+  display: flex;
+  flex-direction: column;
+  align-items:flex-start;
+
+}
+.cajas{
+  
+
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav a{
+  font-size: 10px;
+  text-decoration: none;
+  color: #06365f;
+
+    
+  
+}
